@@ -1,0 +1,24 @@
+{
+  "name": "burger_eating_app",
+  "version": "1.0.0",
+  "description": "Silly app tha will allow you to create and eat burgers",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kurtiam/burger_eating_app.git"
+  },
+  "author": "kurtiam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kurtiam/burger_eating_app/issues"
+  },
+  "homepage": "https://github.com/kurtiam/burger_eating_app#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.4",
+    "mysql": "^2.18.1"
+  }
+}
