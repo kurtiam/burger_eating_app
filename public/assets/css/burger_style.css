@@ -11,8 +11,10 @@ body {
 pre {
     background-color: yellow;
     overflow: hidden;
-      float: right;
+    float: right;
     text-align: left ;
+    width: 420px;;
+ 
 
 }
 
