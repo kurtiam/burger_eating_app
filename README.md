@@ -9,7 +9,7 @@
 
 ##  Description 
 
-Burger Simlulator App made with node.js, express, MySQl; and Handlebars that allow you to Enter a burger name then Eat it.  
+Burger Simlulator App made with node.js, express, MySQL; and Handlebars that allow you to Enter a burger name then Eat it.  
 
  Live Demo hosted at Heroku - https://afternoon-shelf-20049.herokuapp.com/burgers
  
