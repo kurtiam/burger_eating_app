@@ -1,7 +1,5 @@
 # burger_eating_app
 
-# Note Taking App  
-
 ##  Table of Contents
 
 * [Description](#description)
